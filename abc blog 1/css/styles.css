@@ -1,0 +1,19 @@
+@media (min-width: 1200px) {
+  div {
+    width: 80%;
+    align-items: center;
+    margin: auto;
+  }
+}
+
+.row.text-left {
+  width: 100%;
+}
+
+.row {
+  width: 100%;
+}
+
+.rounded.float-left {
+}
+
