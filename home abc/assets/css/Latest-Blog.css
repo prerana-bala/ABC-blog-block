@@ -70,7 +70,7 @@
 }
 
 #carousel-1 {
-  width: 80%;
+  width: 70%;
   margin: auto;
 }
 
@@ -78,6 +78,29 @@
   #carousel-1 {
     width: 95%;
     margin: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .carousel-item {
+    height: 300px;
+  }
+}
+
+.item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.row.padMar {
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .input-group {
+    width: 50%;
   }
 }
 
