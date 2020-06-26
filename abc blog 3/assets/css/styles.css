@@ -85,3 +85,7 @@ a {
 .rounded {
   border-radius: 40px !important;
 }
+
+p.grey-text {
+    text-align: justify;
+}
