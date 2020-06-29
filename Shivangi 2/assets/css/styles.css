@@ -81,3 +81,7 @@
   border-radius: 40px !important;
 }
 
+.breadcrumb {
+  line-height: 0.5;
+}
+
